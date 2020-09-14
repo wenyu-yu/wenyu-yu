@@ -1,6 +1,6 @@
 ## Hi,  Here 🤳
 
-![](./pic.jpg)
+![](https://github.com/wenyu-yu/wenyu-yu/blob/master/v2-3900d334652b21342b3e683a87f9ab97_r.jpg)
 
 
 Hi, I'm wenyu-yu, a software engineer 🚀 from HangZhou, I prefer front end development.
